@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationSchordingersCat</string>
+    <string name="successful_search">Вы нашли кота</string>
+    <string name="cat">ПРИЛОЖЕНИЕ КОТ ШРЁДИНГЕРА</string>
+</resources>
